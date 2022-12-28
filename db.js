@@ -17,6 +17,13 @@ const rawBoxes = [
     id: 0,
     name: "mana",
   },
+  {
+    raridade: "Ano Novo",
+    max: 0,
+    min: 0,
+    id: 1,
+    name: "vip",
+  },
 ];
 
 function randomIntFromInterval(min, max) {
